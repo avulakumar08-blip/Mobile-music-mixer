@@ -1,0 +1,6 @@
+{
+  "name": "GrooveDeck DJ - Mobile Music Mixer & APK",
+  "description": "Professional dual-deck DJ music mixer with real-time scratch jog wheels, crossfader, stem loops, sound effects, beat pads, and 1-click APK install for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
